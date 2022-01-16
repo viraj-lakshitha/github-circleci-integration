@@ -1,0 +1,22 @@
+{
+  "name": "github-circleci-integration",
+  "version": "1.0.0",
+  "description": "Testing Integration with CircleCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraj-lakshitha/github-circleci-integration.git"
+  },
+  "author": "Viraj Lakshitha Bandara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viraj-lakshitha/github-circleci-integration/issues"
+  },
+  "homepage": "https://github.com/viraj-lakshitha/github-circleci-integration#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
